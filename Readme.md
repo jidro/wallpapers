@@ -18,7 +18,7 @@
 > 
 > [`vekete-background`](https://github.com/jidro/wallpapers/tree/master/vekete-background "vekete-background") - 该壁纸图片提取自`vekete`系统（微器人），    </br>
 > 
-> [`Ubuntukylin-Backgrounds`](https://github.com/jidro/wallpapers/tree/master/vekete-background "Ubuntukylin-Backgrounds") - 该壁纸图片提取自`Ubuntukylin`（优麒麟），    </br>
+> [`Ubuntukylin-Backgrounds`](https://github.com/jidro/wallpapers/tree/master/Ubuntukylin-Backgrounds "Ubuntukylin-Backgrounds") - 该壁纸图片提取自`Ubuntukylin`（优麒麟），    </br>
 > 
 > [`xfce`](https://github.com/jidro/wallpapers/tree/master/xfce "xfce") - 该壁纸图片提取自`xfce`桌面环境自带桌面壁纸，    </br>
 > 
@@ -49,11 +49,11 @@ The wallpapers in this warehouse are mostly extracted from each distribution.   
 > 
 > [`vekete-background`](https://github.com/jidro/wallpapers/tree/master/vekete-background "vekete-background") - The wallpaper image is extracted from the `vekete` system (WeChat man),      </br>  
 > 
-> [`Ubuntukylin-Backgrounds`](https://github.com/jidro/wallpapers/tree/master/vekete-background "Ubuntukylin-Backgrounds") - This wallpaper image is extracted from `Ubuntu kylin`,      </br>  
+> [`Ubuntukylin-Backgrounds`](https://github.com/jidro/wallpapers/tree/master/Ubuntukylin-Backgrounds "Ubuntukylin-Backgrounds") - This wallpaper image is extracted from `Ubuntu kylin`,      </br>  
 > 
 > [`xfce`](https://github.com/jidro/wallpapers/tree/master/xfce "xfce") - This wallpaper image is extracted from the desktop wallpaper of the `xfce` desktop environment,      </br>  
 > 
-> [`Xfce-beautify-wallpapers`](https://github.com/jidro/wallpapers/tree/master/Xfce-beautify-wallpapers "Xfce-beautify-wallpapers") - This wallpaper picture comes from the video introduction of [B `station 【beautification tutorial】 beautifying your` xfce `better](https://www.bilibili.com/video/BV1gS4y1g7PM/),        </br>
+> [`Xfce-beautify-wallpapers`](https://github.com/jidro/wallpapers/tree/master/Xfce-beautify-wallpapers "Xfce-beautify-wallpapers") - This wallpaper picture comes from the video introduction of [`B `station 【beautification tutorial】 beautifying your ` xfce` better](https://www.bilibili.com/video/BV1gS4y1g7PM/),        </br>
 > 
 > [`Save`](https://github.com/jidro/wallpapers/tree/master/Save "Save") - This wallpaper image is from various wallpaper websites.      </br>
 
